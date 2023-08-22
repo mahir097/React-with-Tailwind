@@ -7,4 +7,5 @@
 |3-Stepper| <a href="https://64e15531112011135d27968d--resilient-centaur-5e4604.netlify.app/" target="_blanked">Stepper<a/>|
 |4-Travel List| <a href="https://64e240c5c324977d072babce--soft-brigadeiros-553696.netlify.app/" target="_blanked">Travel List<a/>|
 |5-Eat & Split| <a href="https://64e3699287bbbd19c45dc799--magnificent-liger-a22f09.netlify.app/" target="_blanked">Eat & Split<a/>|
+|6-Movie List| <a href="https://64e522f11dcc2a2affdceebf--sparkly-dolphin-dce308.netlify.app/" target="_blanked">Movie List<a/>|
 
