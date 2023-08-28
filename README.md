@@ -9,4 +9,5 @@
 |5-Eat & Split| <a href="https://64e3699287bbbd19c45dc799--magnificent-liger-a22f09.netlify.app/" target="_blanked">Eat & Split<a/>|
 |6-Movie List| <a href="https://64e522f11dcc2a2affdceebf--sparkly-dolphin-dce308.netlify.app/" target="_blanked">Movie List<a/>|
 |7-To Do App| <a href="https://64eb95a7edd7a70a3ef5994d--precious-gingersnap-fae382.netlify.app/" target="_blanked">To Do App<a/>|
+|7-Quiz App| <a href="https://64ed007509029d0b2dced805--peppy-clafoutis-9f45c3.netlify.app/" target="_blanked">Quiz App<a/>|
 
